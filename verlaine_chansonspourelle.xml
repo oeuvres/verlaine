@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0" xmlns:bml="http://efele.net/2010/ns/bml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chansons pour elle</title>
+        <author key="Verlaine, Paul (1844-1896)"/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>GitHub</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ref target="http://efele.net/ebooks/livres/000237">http://efele.net/ebooks/livres/000237</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1891"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="verse" type="genre">Vers</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="p123">
+        <pb n="303"/>
+        <head>I</head>
+        <lg>
+          <l>Tu n’es pas du tout vertueuse,</l>
+          <l>Je ne suis pas du tout jaloux !</l>
+          <l>C’est de se la couler heureuse</l>
+          <l>Encor le moyen le plus doux.</l>
+        </lg>
+        <lg>
+          <l>Vive l’amour et vivent nous !</l>
+        </lg>
+        <lg>
+          <l>Tu possèdes et tu pratiques</l>
+          <l>Les tours les plus intelligents</l>
+          <l>Et les trucs les plus authentiques</l>
+          <l>A l’usage des braves gens,</l>
+        </lg>
+        <lg>
+          <l>Et tu m’as quels soins indulgents !</l>
+        </lg>
+        <lg>
+          <l>D’aucuns clabaudent sur ton âge</l>
+          <l>Qui n’est plus seize ans ni vingt ans,</l>
+          <l>Mais ô ton opulent corsage,</l>
+          <l>Tes yeux riants, comme chantants,</l>
+        </lg>
+        <lg>
+          <l>Et ô tes baisers épatants !</l>
+        </lg>
+        <pb n="304"/>
+        <lg>
+          <l>Sois-moi fidèle si possible</l>
+          <l>Et surtout si cela te plaît,</l>
+          <l>Mais reste souvent accessible</l>
+          <l>A mon désir, humble valet</l>
+        </lg>
+        <lg>
+          <l>Content d’un « viens ! » ou d’un soufflet.</l>
+        </lg>
+        <lg>
+          <l>« Hein ? passé le temps des prouesses ! »</l>
+          <l>Me disent les sots d’alentour.</l>
+          <l>Ça, non, car grâce à tes caresses</l>
+          <l>C’est encor, c’est toujours mon tour.</l>
+        </lg>
+        <lg>
+          <l>Vivent nous et vive l’amour !</l>
+        </lg>
+      </div>
+      <div xml:id="p124">
+        <pb n="305"/>
+        <head>II</head>
+        <lg>
+          <l>Compagne savoureuse et bonne</l>
+          <l>A qui j’ai confié le soin</l>
+          <l>Définitif de ma personne,</l>
+          <l>Toi mon dernier, mon seul témoin,</l>
+          <l>Viens çà, chère, que je te baise,</l>
+          <l>Que je t’embrasse long et fort,</l>
+          <l>Mon cœur près de ton cœur bat d’aise</l>
+          <l>Et d’amour pour jusqu’à la mort :</l>
+          <l>   Aime-moi,</l>
+          <l>   Car, sans toi,</l>
+          <l>   Rien ne puis,</l>
+          <l>   Rien ne suis.</l>
+        </lg>
+        <lg>
+          <l>Je vais gueux comme un rat d’église,</l>
+          <l>Et toi tu n’as que tes dix doigts ;</l>
+          <l>La table n’est pas souvent mise</l>
+          <l>Dans nos sous-sols et sous nos toits ;</l>
+          <pb n="306"/>
+          <l>Mais jamais notre lit ne chôme,</l>
+          <l>Toujours joyeux, toujours fêté,</l>
+          <l>Et j’y suis le roi du royaume</l>
+          <l>De ta gaîté, de ta santé !</l>
+          <l>   Aime-moi,</l>
+          <l>   Car, sans toi,</l>
+          <l>   Rien ne puis,</l>
+          <l>   Rien ne suis.</l>
+        </lg>
+        <lg>
+          <l>Après nos nuits d’amour robuste,</l>
+          <l>Je sors de tes bras mieux trempé,</l>
+          <l>Ta riche caresse est la juste</l>
+          <l>Sans rien de ma chair de trompé,</l>
+          <l>Ton amour répand la vaillance</l>
+          <l>Dans tout mon être, comme un vin,</l>
+          <l>Et, seule, tu sais la science</l>
+          <l>De me gonfler un cœur divin.</l>
+          <l>   Aime-moi,</l>
+          <l>   Car, sans toi,</l>
+          <l>   Rien ne puis,</l>
+          <l>   Rien ne suis.</l>
+        </lg>
+        <lg>
+          <l>Qu’importe ton passé, ma belle,</l>
+          <l>Et qu’importe, parbleu ! le mien :</l>
+          <l>Je t’aime d’un amour fidèle</l>
+          <l>Et tu ne m’as fait que du bien.</l>
+          <pb n="307"/>
+          <l>Unissons dans nos deux misères</l>
+          <l>Le pardon qu’on nous refusait,</l>
+          <l>Et je t’étreins et tu me serres</l>
+          <l>Et zut au monde qui jasait !</l>
+          <l>   Aime-moi</l>
+          <l>   Car, sans toi,</l>
+          <l>   Rien ne puis,</l>
+          <l>   Rien ne suis.</l>
+        </lg>
+      </div>
+      <div xml:id="p125">
+        <pb n="308"/>
+        <head>III</head>
+        <lg>
+          <l>Voulant te fuir (fuir ses amours !</l>
+          <l>  Mais un poète est bête),</l>
+          <l>J’ai pris, l’un de ces derniers jours,</l>
+          <l>  La poudre d’escampette.</l>
+          <l>Qui fut penaud, qui fut nigaud</l>
+          <l>  Dès après un quart d’heure ?</l>
+          <l>Et je revins en mendigot</l>
+          <l>  Qui supplie et qui pleure.</l>
+        </lg>
+        <lg>
+          <l>Tu pardonnas : mais pas longtemps</l>
+          <l>  Depuis la fois première</l>
+          <l>Je filais, pareil aux autans,</l>
+          <l>  Comme la fois dernière.</l>
+          <l>Tu me cherchas, me dénichas ;</l>
+          <l>  Courte et bonne, l’enquête !</l>
+          <l>Qui fut content du doux pourchas ?</l>
+          <l>  Moi donc, ta grosse bête !</l>
+        </lg>
+        <pb n="309"/>
+        <lg>
+          <l>Puisque nous voici réunis,</l>
+          <l>  Dis, sans ruse et sans feinte,</l>
+          <l>Ne nous cherchons plus d’autres nids</l>
+          <l>  Que ma, que ton étreinte.</l>
+          <l>Malgré mon caractère affreux,</l>
+          <l>  Malgré ton caractère</l>
+          <l>Affreux, restons toujours heureux :</l>
+          <l>  Fois première et dernière.</l>
+        </lg>
+      </div>
+      <div xml:id="p126">
+        <pb n="310"/>
+        <head>IV</head>
+        <lg>
+          <l>Or, malgré ta cruauté</l>
+          <l>Affectée, et l’air très faux</l>
+          <l>De sale méchanceté</l>
+          <l>Dont, bête, tu te prévaux</l>
+        </lg>
+        <lg>
+          <l>J’aime ta lasciveté !</l>
+        </lg>
+        <lg>
+          <l>Et quoiqu’en dépit de tout</l>
+          <l>Le trop factice dégoût</l>
+          <l>Que me dicte ton souris</l>
+          <l>Qui m’est, à mes dams et coût,</l>
+        </lg>
+        <lg>
+          <l>Rouge aux crocs blancs de souris ! —</l>
+        </lg>
+        <lg>
+          <l>Je t’aime comme l’on croit,</l>
+          <l>Et mon désir fou qui croît,</l>
+          <l>Tel un champignon des prés,</l>
+          <l>S’érige ainsi que le Doigt</l>
+        </lg>
+        <lg>
+          <l>D’un Terme là tout exprès.</l>
+        </lg>
+        <pb n="311"/>
+        <lg>
+          <l>Donc, malgré ma cruauté</l>
+          <l>Affectée, et l’air très faux</l>
+          <l>De pire méchanceté,</l>
+          <l>Dont, bête, je me prévaux,</l>
+        </lg>
+        <lg>
+          <l>Aime ma simplicité.</l>
+        </lg>
+      </div>
+      <div xml:id="p127">
+        <pb n="312"/>
+        <head>V</head>
+        <epigraph>
+          <l>
+            <hi rend="i">Zon, flûte et basse</hi>
+          </l>
+          <l>
+            <hi rend="i">Zon, violon.</hi>
+          </l>
+          <bibl>(<hi rend="sc">Béranger</hi>.)</bibl>
+        </epigraph>
+        <lg>
+          <l>Jusques aux pervers nonchaloirs</l>
+          <l>   De ces yeux noirs,</l>
+          <l>Jusques, depuis ces flemmes blanches</l>
+          <l>   De larges hanches</l>
+          <l>Et d’un ventre et de beaux seins</l>
+          <l>   Aux fiers dessins,</l>
+        </lg>
+        <lg>
+          <l>Tout pervertit, tout convertit tous mes desseins</l>
+        </lg>
+        <lg>
+          <l>Jusques à votre menterie,</l>
+          <l>   Bouche fleurie,</l>
+          <l>Jusques aux pièges mal tendus</l>
+          <l>   Tant attendus,</l>
+          <l>De tant d’appas, de tant de charmes.</l>
+          <l>   De tant d’alarmes,</l>
+        </lg>
+        <lg>
+          <l>Tout pervertit, tout avertit mes tristes larmes,</l>
+        </lg>
+        <pb n="313"/>
+        <lg>
+          <l>Et, chère, ah ! dis : Flûtes et zons</l>
+          <l>   A mes chansons</l>
+          <l>Qui vont brâmant, tels des cerfs prestes</l>
+          <l>   Aux gestes lestes,</l>
+          <l>Ah ! dis donc, Chère : Flûte et zon !</l>
+          <l>   A ma chanson,</l>
+        </lg>
+        <lg>
+          <l>Et si je fais l’âne, eh bien, donne-moi du son !</l>
+        </lg>
+      </div>
+      <div xml:id="p128">
+        <pb n="314"/>
+        <head>VI</head>
+        <lg>
+          <l>La saison qui s’avance</l>
+          <l>Nous baille la défense</l>
+          <l>D’user des us d’été,</l>
+          <l>Le frisson de l’automne</l>
+          <l>Déjà nous pelotonne</l>
+          <l>Dans le lit mieux fêté.</l>
+        </lg>
+        <lg>
+          <l>Fi de l’été morose,</l>
+          <l>Toujours la même chose :</l>
+          <l>« J’ai chaud, t’as chaud, dormons ! »</l>
+          <l>Dormir au lieu de vivre,</l>
+          <l>S’ennuyer comme un livre...</l>
+          <l>Voici l’automne, aimons !</l>
+        </lg>
+        <lg>
+          <l>L’un dans l’autre, à notre aise,</l>
+          <l>Soyons pires que braise</l>
+          <l>Puisque s’en vient l’hiver,</l>
+          <l>Tous les deux, corps et âme,</l>
+          <l>Soyons pires que flamme,</l>
+          <l>Soyons pires que chair !</l>
+        </lg>
+      </div>
+      <div xml:id="p129">
+        <pb n="315"/>
+        <head>VII</head>
+        <lg>
+          <l>Je suis plus pauvre que jamais</l>
+          <l>   Et que personne ;</l>
+          <l>Mais j’ai ton cou gras, tes bras frais,</l>
+          <l>   Ta façon bonne</l>
+          <l>De faire l’amour, et le tour</l>
+          <l>   Leste et frivole,</l>
+          <l>Et la caresse, nuit et jour,</l>
+          <l>   De ta parole.</l>
+        </lg>
+        <lg>
+          <l>Je suis riche de tes beaux yeux,</l>
+          <l>   De ta poitrine,</l>
+          <l>Nid follement voluptueux,</l>
+          <l>   Couche ivoirine</l>
+          <l>Où mon désir, las d’autre part,</l>
+          <l>   Se ravigore</l>
+          <l>Et pour d’autres ébats repart</l>
+          <l>   Plus brave encore...</l>
+        </lg>
+        <pb n="316"/>
+        <lg>
+          <l>Sans doute tu ne m’aimes pas</l>
+          <l>   Comme je t’aime,</l>
+          <l>Je sais combien tu me trompes</l>
+          <l>   Jusqu’à l’extrême.</l>
+          <l>Que me fait, puisque je ne vis</l>
+          <l>   Qu’en ton essence,</l>
+          <l>Et que tu tiens mes sens ravis</l>
+          <l>   Sous ta puissance ?</l>
+        </lg>
+      </div>
+      <div xml:id="p130">
+        <pb n="317"/>
+        <head>VIII</head>
+        <lg>
+          <l>Que ton âme soit blanche ou noire,</l>
+          <l>Que fait ? Ta peau de jeune ivoire</l>
+          <l>Est rose et blanche et jaune un peu.</l>
+          <l>Elle sent bon, ta chair, perverse</l>
+          <l>Ou non, que fait ? puisqu’elle berce</l>
+          <l>La mienne de chair, nom de Dieu !</l>
+        </lg>
+        <lg>
+          <l>Elle la berce, ma chair folle,</l>
+          <l>Ta folle de chair, ma parole</l>
+          <l>La plus sacrée ! — et que donc bien !</l>
+          <l>Et la mienne, grâce à la tienne,</l>
+          <l>Quelque réserve qui la tienne,</l>
+          <l>Elle s’en donne, nom d’un chien !</l>
+        </lg>
+        <lg>
+          <l>Quant à nos âmes, dis, Madame,</l>
+          <l>Tu sais, mon âme et puis ton âme,</l>
+          <l>Nous en moquons-nous ? Que non pas !</l>
+          <l>Seulement nous sommes au monde.</l>
+          <l>Ici-bas, sur la terre ronde,</l>
+          <l>Et non au ciel, mais ici-bas.</l>
+        </lg>
+        <pb n="318"/>
+        <lg>
+          <l>Or, ici-bas, faut qu’on profite</l>
+          <l>Du plaisir qui passe si vite</l>
+          <l>Et du bonheur de se pâmer,</l>
+          <l>Aimons, ma petite méchante,</l>
+          <l>Telle l’eau va, tel l’oiseau chante,</l>
+          <l>Et tels, nous ne devons qu’aimer.</l>
+        </lg>
+      </div>
+      <div xml:id="p131">
+        <pb n="319"/>
+        <head>IX</head>
+        <lg>
+          <l>Tu m’as frappé, c’est ridicule,</l>
+          <l>Je t’ai battue et c’est affreux :</l>
+          <l>Je m’en repens et tu m’en veux.</l>
+          <l>C’est bien, c’est selon la formule.</l>
+        </lg>
+        <lg>
+          <l>Je n’avais qu’à me tenir coi</l>
+          <l>Sous l’aimable averse des gifles</l>
+          <l>De ta main experte en mornifles,</l>
+          <l>Sans même demander pourquoi.</l>
+        </lg>
+        <lg>
+          <l>Et toi, ton droit, ton devoir même,</l>
+          <l>Au risque de t’exténuer,</l>
+          <l>Il serait de continuer</l>
+          <l>De façon extrême et suprême...</l>
+        </lg>
+        <lg>
+          <l>Seulement, ô ne m’en veux plus,</l>
+          <l>Encore que ce fût un crime</l>
+          <l>De t’avoir faite ma victime...</l>
+          <l>Dis, plus de refus absolus,</l>
+        </lg>
+        <pb n="320"/>
+        <lg>
+          <l>Bats-moi, petite, comme plâtre,</l>
+          <l>Mais ensuite viens me baiser,</l>
+          <l>Pas ? quel besoin d’éterniser</l>
+          <l>Une querelle trop folâtre.</l>
+        </lg>
+        <lg>
+          <l>Pour se brouiller plus d’un instant,</l>
+          <l>Le temps de nous faire une moue</l>
+          <l>Qu’éteint un bécot sur la joue,</l>
+          <l>Puis sur la bouche en attendant</l>
+        </lg>
+        <lg>
+          <l>Mieux encor, n’est-ce pas, gamine ?</l>
+          <l>Promets-le-moi sans biaiser.</l>
+          <l>C’est convenu ? Oui ? Puis-je oser ?</l>
+          <l>Allons, plus de ta grise mine !</l>
+        </lg>
+      </div>
+      <div xml:id="p132">
+        <pb n="321"/>
+        <head>X</head>
+        <lg>
+          <l>L’horrible nuit d’insomnie !</l>
+          <l>— Sans la présence bénie</l>
+          <l>De ton cher corps près de moi,</l>
+          <l>Sans ta bouche tant baisée</l>
+          <l>Encore que trop rusée</l>
+          <l>En toute mauvaise foi,</l>
+        </lg>
+        <lg>
+          <l>Sans ta bouche tout mensonge,</l>
+          <l>Mais si franche quand j’y songe,</l>
+          <l>Et qui sait me consoler</l>
+          <l>Sous l’aspect et sous l’espèce</l>
+          <l>D’une fraise — et, bonne pièce ! —</l>
+          <l>D’un très plausible parler,</l>
+        </lg>
+        <lg>
+          <l>Et surtout sans le pentacle</l>
+          <l>De tes sens et le miracle</l>
+          <l>Multiple est un, fleur et fruit,</l>
+          <l>De tes durs yeux de sorcière,</l>
+          <l>Durs et doux à ta manière...</l>
+          <l>Vrai Dieu ! la terrible nuit !</l>
+        </lg>
+      </div>
+      <div xml:id="p133">
+        <pb n="322"/>
+        <head>XI</head>
+        <lg>
+          <l>Vrai, nous avons trop d’esprit,</l>
+          <l>   Chérie !</l>
+          <l>Je crois que mal nous en prit,</l>
+          <l>   Chérie !</l>
+          <l>D’ainsi lutter corps à corps</l>
+          <l>   Encore !</l>
+          <l>Sans repos et sans remords</l>
+          <l>   Encore !</l>
+        </lg>
+        <lg>
+          <l>Plus, n’est-ce pas ? de ces luttes</l>
+          <l>   Sans but,</l>
+          <l>Plus de ces mauvaises flûtes.</l>
+          <l>   Ce luth,</l>
+          <l>O ce luth de bien se faire</l>
+          <l>   Tel air,</l>
+          <l>Toujours vibrant, chanson hère</l>
+          <l>   Dans l’air !</l>
+        </lg>
+        <pb n="323"/>
+        <lg>
+          <l>Et n’ayons plus d’esprit,</l>
+          <l>   T’en prie !</l>
+          <l>Tu vois que mal nous en prit...</l>
+          <l>   T’en prie.</l>
+          <l>Soyons bons tout bêtement,</l>
+          <l>   Charmante,</l>
+          <l>Aimons-nous aimablement</l>
+          <l>   M’amante !</l>
+        </lg>
+      </div>
+      <div xml:id="p134">
+        <pb n="324"/>
+        <head>XII</head>
+        <lg>
+          <l>Tu bois, c’est hideux ! presque autant que moi.</l>
+          <l>Je bois, c’est honteux, presque plus que toi,</l>
+          <l>Ce n’est plus ce qu’on appelle une vie...</l>
+          <l>Ah ! la femme, fol, fol est qui s’y fie !</l>
+        </lg>
+        <lg>
+          <l>Les hommes, bravo ! c’est fier et soumis,</l>
+          <l>On peut s’y fier, voilà des amis !</l>
+          <l>Nous buvons, mais, vous mesdames, l’ivresse</l>
+          <l>Vous va moins qu’à nous, — te change en tigresse,</l>
+        </lg>
+        <lg>
+          <l>Moi tout au plus en un simple cochon ;</l>
+          <l>Quelque idéal sot dans mon cabochon,</l>
+          <l>Quelque bêtise en sus, quelque sottise</l>
+          <l>En outre, — mais toi, la fainéantise,</l>
+        </lg>
+        <lg>
+          <l>La méchanceté, l’obstination,</l>
+          <l>Un peu le vice et beaucoup l’option,</l>
+          <l>Pour être plus folle, sur ma parole !</l>
+          <l>Que ma folie à moi déjà si folle.</l>
+        </lg>
+        <pb n="325"/>
+        <lg>
+          <l>Ces réflexions me coûtent beaucoup,</l>
+          <l>Mais ce soir je suis d’une humeur de loup.</l>
+          <l>Excuse, si mon discours va si rogue,</l>
+          <l>Mais ce soir je suis d’une humeur de dogue.</l>
+        </lg>
+        <ab rend="center" type="ornament">*<lb/>* *</ab>
+        <lg>
+          <l>Bah ! buvons pas trop (s’il nous est possible),</l>
+          <l>Ma bouche est un trou, la tienne est un crible.</l>
+          <l>Dieu saura bien reconnaître les siens.</l>
+          <l>Morale : surtout baisons-nous — et viens !</l>
+        </lg>
+      </div>
+      <div xml:id="p135">
+        <pb n="326"/>
+        <head>XIII</head>
+        <lg>
+          <l>  Es-tu brune ou blonde ?</l>
+          <l>  Sont-ils noirs ou bleus,</l>
+          <l>    Tes yeux ?</l>
+          <l>Je n’en sais rien, mais j’aime leur clarté profonde,</l>
+          <l>Mais j’adore le désordre de tes cheveux.</l>
+        </lg>
+        <lg>
+          <l>  Es-tu douce ou dure ?</l>
+          <l>  Est-il sensible ou moqueur,</l>
+          <l>    Ton cœur ?</l>
+          <l>Je n’en sais rien, mais je rends grâce à la nature</l>
+          <l>D’avoir fait de ton cœur mon maître et mon vainqueur.</l>
+        </lg>
+        <lg>
+          <l>  Fidèle, infidèle ?</l>
+          <l>  Qu’est-ce que ça fait,</l>
+          <l>    Au fait ?</l>
+          <l>Puisque, toujours disposé à couronner mon zèle</l>
+          <l>Ta beauté sert de gage à mon plus cher souhait.</l>
+        </lg>
+      </div>
+      <div xml:id="p136">
+        <pb n="327"/>
+        <head>XIV</head>
+        <lg>
+          <l>Je ne t’aime pas en toilette</l>
+          <l>Et je déteste la voilette</l>
+          <l>Qui t’obscurcit tes yeux, mes cieux,</l>
+          <l>Et j’abomine la « tournure »</l>
+          <l>Parodie et caricature,</l>
+          <l>De tels tiens appas somptueux.</l>
+        </lg>
+        <lg>
+          <l>Je suis hostile à toute robe</l>
+          <l>Qui plus ou moins cache et dérobe</l>
+          <l>Ces charmes, au fond les meilleurs :</l>
+          <l>Ta gorge, mon plus cher délice,</l>
+          <l>Tes épaules et la malice</l>
+          <l>De tes mollets ensorceleurs.</l>
+        </lg>
+        <lg>
+          <l>Fi d’une femme trop bien mise !</l>
+          <l>Je te veux, ma belle, en chemise,</l>
+          <l>— Voile aimable, obstacle badin,</l>
+          <l>Nappe d’autel pour l’alme messe,</l>
+          <l>Drapeau mignard vaincu sans cesse</l>
+          <l>Matin et soir, soir et matin.</l>
+        </lg>
+      </div>
+      <div xml:id="p137">
+        <pb n="328"/>
+        <head>XV</head>
+        <lg>
+          <l>Chemise de femme, armure <hi rend="i">ad hoc </hi></l>
+          <l>Pour les chers combats et le gai choc,</l>
+          <l>Avec, si frais et que blancs et gras,</l>
+          <l>Sortant tout nus, joyeux, les deux bras,</l>
+        </lg>
+        <lg>
+          <l>  Vêtement suprême,</l>
+          <l>  De mode toujours,</l>
+          <l>  C’est toi seul que j’aime</l>
+          <l>  De tous ses atours.</l>
+        </lg>
+        <lg>
+          <l>Quand Elle s’en vient devers le lit,</l>
+          <l>L’orgueil des beaux seins cambrés emplit</l>
+          <l>Et bombe le linge tout parfumé</l>
+          <l>Du seul vrai parfum, son corps pâmé.</l>
+        </lg>
+        <lg>
+          <l>  Vêtement suprême,</l>
+          <l>  De mode toujours,</l>
+          <l>  C’est toi seul que j’aime</l>
+          <l>  De tous ses atours.</l>
+        </lg>
+        <pb n="329"/>
+        <lg>
+          <l>Quand elle entre dans le lit, c’est mieux</l>
+          <l>Encor : sous ma main le précieux</l>
+          <l>Trésor de sa croupe frémit dans</l>
+          <l>Les plis de batiste redondants.</l>
+        </lg>
+        <lg>
+          <l>  Vêtement suprême,</l>
+          <l>  De mode toujours,</l>
+          <l>  C’est toi seul que j’aime</l>
+          <l>  De tous ses atours.</l>
+        </lg>
+        <lg>
+          <l>Mais lorsqu’elle a pris place à côté</l>
+          <l>De moi, l’humble serf de sa beauté,</l>
+          <l>Il est divin et mieux mon bonheur</l>
+          <l>A bousculer le linge et l’honneur !</l>
+        </lg>
+        <lg>
+          <l>  Vêtement suprême,</l>
+          <l>  De mode toujours,</l>
+          <l>  C’est toi seul que j’aime</l>
+          <l>  De tous ses atours.</l>
+        </lg>
+      </div>
+      <div xml:id="p138">
+        <pb n="330"/>
+        <head>XVI</head>
+        <lg>
+          <l>L’été ne fut pas adorable</l>
+          <l>Après cet hiver infernal,</l>
+          <l>Et quel printemps défavorable !</l>
+          <l>Et l’automne commence mal,</l>
+          <l>  Bah ! nous nous réchauffâmes</l>
+          <l>  En mêlant nos deux âmes.</l>
+        </lg>
+        <lg>
+          <l>La pauvreté, notre compagne</l>
+          <l>Dont nous nous serions bien passés,</l>
+          <l>Vainement menait la campagne</l>
+          <l>Durant tous ces longs mois glacés...</l>
+          <l>  Nous incaguions l’intruse,</l>
+          <l>  Son astuce et sa ruse.</l>
+        </lg>
+        <lg>
+          <l>Et riches, de baisers sans nombre,</l>
+          <l>— La seule opulence, crois-moi, —</l>
+          <l>Que nous fait que le temps soit sombre</l>
+          <l>S’il fait soleil en moi, chez toi,</l>
+          <l>  Et que le plaisir rie</l>
+          <l>  A notre gueuserie ?</l>
+        </lg>
+      </div>
+      <div xml:id="p139">
+        <pb n="331"/>
+        <head>XVII</head>
+        <lg>
+          <l>Je ne suis plus de ces esprits philosophiques,</l>
+          <l>Et ce n’est pas de morale que tu te piques</l>
+          <l>Deux admirables conditions pour l’amour</l>
+          <l>Tel que nous l’entendrons, c’est-à-dire sans tour</l>
+          <l>Aucun de bête convenance ou de limites,</l>
+          <l>Mais chaud, rieur — et zut à tous us hypocrites !</l>
+        </lg>
+        <lg>
+          <l>  Aimons gaîment</l>
+          <l>  Et franchement.</l>
+        </lg>
+        <lg>
+          <l>J’ai reconnu que la vertu, quand s’agit d’Elles,</l>
+          <l>Est duperie et que la plupart d’elles ont</l>
+          <l>Raison de s’en passer, nous prenant pour modèles :</l>
+          <l>Si bien qu’il est très bien de faire comme font</l>
+          <l>Les bonnes bêtes de la terre et les célestes,</l>
+          <l>N’est-ce pas ? prompts moineaux, n’est-ce pas, les cerfs prestes</l>
+        </lg>
+        <lg>
+          <l>  Aimons bien fort</l>
+          <l>  Jusqu’à la mort.</l>
+        </lg>
+        <pb n="332"/>
+        <lg>
+          <l>Pratique mon bon conseil et reste amusante.</l>
+          <l>S’il se peut, sois-le plus encore et représente</l>
+          <l>Toi bien que c’est ta loi d’être pour nous charmer</l>
+          <l>Et la fleur n’est pas plus faite pour se fermer</l>
+          <l>Que vos cœurs et vos sens, ô nos belles amies...</l>
+          <l>Tête en l’air, sens au clair, vos « pudeurs » endormies,</l>
+        </lg>
+        <lg>
+          <l>  Aimons dûment</l>
+          <l>  Et verdement</l>
+        </lg>
+      </div>
+      <div xml:id="p140">
+        <pb n="333"/>
+        <head>XVIII</head>
+        <lg>
+          <l>Si tu le veux bien, divine Ignorante,</l>
+          <l>Je ferai celui qui ne sait plus rien</l>
+          <l>Que te caresser d’une main errante,</l>
+          <l>En le geste expert du pire vaurien,</l>
+        </lg>
+        <lg>
+          <l>Si tu le veux bien, divine Ignorante.</l>
+        </lg>
+        <lg>
+          <l>Soyons scandaleux sans plus nous gêner</l>
+          <l>Qu’un cerf et sa biche ès bois authentiques.</l>
+          <l>La honte, envoyons-la se promener.</l>
+          <l>Même exagérons et, sinon cyniques,</l>
+        </lg>
+        <lg>
+          <l>Soyons scandaleux sans plus nous gêner.</l>
+        </lg>
+        <lg>
+          <l>Surtout ne parlons pas littérature.</l>
+          <l>Au diable lecteurs, auteurs, éditeurs</l>
+          <l>Surtout ! Livrons-nous à notre nature</l>
+          <l>Dans l’oubli charmant de toutes pudeurs,</l>
+        </lg>
+        <lg>
+          <l>Et, ô ! ne parlons pas littérature !</l>
+        </lg>
+        <pb n="334"/>
+        <lg>
+          <l>Jouir et dormir, ce sera, veux-tu ?</l>
+          <l>Notre fonction première et dernière,</l>
+          <l>Notre seule et notre double vertu,</l>
+          <l>Conscience unique, unique lumière.</l>
+        </lg>
+        <lg>
+          <l>Jouir et dormir, m’amante, veux-tu ?</l>
+        </lg>
+      </div>
+      <div xml:id="p141">
+        <pb n="335"/>
+        <head>XIX</head>
+        <lg>
+          <l>Ton rire éclaire mon vieux cœur</l>
+          <l>Comme une lanterne une cave</l>
+          <l>Où mûrirait tel cru vainqueur :</l>
+          <l>Aï, Beaune, Sauterne, Grave.</l>
+        </lg>
+        <lg>
+          <l>Ton rire éclaire mon vieux cœur.</l>
+        </lg>
+        <lg>
+          <l>Ta voix claironne dans mon âme :</l>
+          <l>Tel un signal d’aller au feu...</l>
+          <l>... De tes yeux en effet tout flamme</l>
+          <l>On y va, sacré nom de Dieu !</l>
+        </lg>
+        <lg>
+          <l>Ta voix claironne dans mon âme.</l>
+        </lg>
+        <lg>
+          <l>Ta manière, ton <hi rend="i">meneo,</hi></l>
+          <l>Ton chic, ton galbe, ton que sais-je,</l>
+          <l>Me disent : « Viens ça » <hi rend="i">Prodeo.</hi></l>
+          <l>(O ces souvenirs de collège !)</l>
+        </lg>
+        <lg>
+          <l>Ta manière ! ton <hi rend="i">meneo !</hi></l>
+        </lg>
+        <pb n="336"/>
+        <lg>
+          <l>Ta gorge, tes hanches, ton geste,</l>
+          <l>Et le reste, odeur et fraîcheur</l>
+          <l>Et chaleur m’insinuent : reste !</l>
+          <l>Si j’y reste, en ton lit mangeur !</l>
+        </lg>
+        <lg>
+          <l>Ta gorge, tes hanches ! ton geste !</l>
+        </lg>
+      </div>
+      <div xml:id="p142">
+        <pb n="337"/>
+        <head>XX</head>
+        <lg>
+          <l>Tu crois au marc de café,</l>
+          <l>Aux présages, aux grands jeux :</l>
+          <l>Moi je ne crois qu’en tes grands yeux.</l>
+        </lg>
+        <lg>
+          <l>Tu crois aux contes de fées,</l>
+          <l>Aux jours néfastes, aux songes,</l>
+          <l>Moi je ne crois qu’en tes mensonges.</l>
+        </lg>
+        <lg>
+          <l>Tu crois en un vague Dieu,</l>
+          <l>En quelque saint spécial,</l>
+          <l>En tel <hi rend="i">Ave</hi> contre tel mal.</l>
+        </lg>
+        <lg>
+          <l>Je ne crois qu’aux heures bleues</l>
+          <l>Et rose que tu m’épanches</l>
+          <l>Dans la volupté des nuits blanches !</l>
+        </lg>
+        <lg>
+          <l>Et si profonde est ma foi</l>
+          <l>Envers tout ce que je croi</l>
+          <l>Que je ne vis plus que pour toi.</l>
+        </lg>
+      </div>
+      <div xml:id="p143">
+        <pb n="338"/>
+        <head>XXI</head>
+        <lg>
+          <l>Lorsque tu cherches tes puces,</l>
+          <l>  C’est très rigolo.</l>
+          <l>Que de ruses, que d’astuces !</l>
+          <l>  J’aime ce tableau.</l>
+          <l>C’est, alliciant en diable</l>
+          <l>  Et mon cœur en bat</l>
+          <l>D’un battement préalable</l>
+          <l>  A quelque autre ébat</l>
+        </lg>
+        <lg>
+          <l>Sous la chemise tendue</l>
+          <l>  Au large, à deux mains</l>
+          <l>Tes yeux scrutent l’étendue</l>
+          <l>  Entre tes durs seins.</l>
+          <l>Toujours tu reviens bredouille,</l>
+          <l>  D’ailleurs, de ce jeu.</l>
+          <l>N’importe, il me trouble et brouille,</l>
+          <l>  Ton sport, et pas peu !</l>
+        </lg>
+        <pb n="339"/>
+        <lg>
+          <l>Lasse-toi d’être défaite</l>
+          <l>  Aussi sottement.</l>
+          <l>Viens payer une autre fête</l>
+          <l>  A ton corps charmant</l>
+          <l>Qu’une chasse infructueuse</l>
+          <l>  Par monts et par vaux.</l>
+          <l>Tu seras victorieuse...</l>
+          <l>  Si je ne prévaux !</l>
+        </lg>
+      </div>
+      <div xml:id="p144">
+        <pb n="340"/>
+        <head>XXII</head>
+        <lg>
+          <l>J’ai rêvé de toi cette nuit :</l>
+          <l>Tu te pâmais en mille poses</l>
+          <l>Et roucoulais des tas de choses...</l>
+        </lg>
+        <lg>
+          <l>Et moi, comme on savoure un fruit,</l>
+          <l>Je te baisais à bouche pleine</l>
+          <l>Un peu partout, mont, val ou plaine.</l>
+        </lg>
+        <lg>
+          <l>J’étais d’une élasticité,</l>
+          <l>D’un ressort vraiment admirable :</l>
+          <l>Tudieu, quelle haleine et quel rable !</l>
+        </lg>
+        <lg>
+          <l>Et toi, chère, de ton côté,</l>
+          <l>Quel rable, quelle haleine, quelle</l>
+          <l>Élasticité de gazelle...</l>
+        </lg>
+        <lg>
+          <l>Au réveil ce fut, dans tes bras,</l>
+          <l>Mais plus aiguë et plus parfaite,</l>
+          <l>Exactement la même fête !</l>
+        </lg>
+      </div>
+      <div xml:id="p145">
+        <pb n="341"/>
+        <head>XXIII</head>
+        <lg>
+          <l>Je n ai pas de chance en femme,</l>
+          <l>Et, depuis mon âge d’homme,</l>
+        </lg>
+        <lg>
+          <l>Je ne suis tombé guère, en somme,</l>
+          <l>Que sur des criardes infâmes.</l>
+        </lg>
+        <lg>
+          <l>C’est vrai que je suis criard</l>
+          <l>Moi-même et d’un révoltant</l>
+          <l>Caractère tout autant,</l>
+          <l>Peut-être plus par hasard.</l>
+        </lg>
+        <lg>
+          <l>Mes femmes furent légères,</l>
+          <l>Toi-même tu l’es un peu,</l>
+          <l>Cet épouvantable aveu</l>
+          <l>Soit dit entre nous, ma chère.</l>
+        </lg>
+        <lg>
+          <l>C’est vrai que je fus coureur.</l>
+          <l>Peut-être le suis-je encore :</l>
+          <l>Cet aveu me déshonore.</l>
+          <l>Parfois je me fais horreur.</l>
+        </lg>
+        <pb n="342"/>
+        <lg>
+          <l>Baste : restons tout de même</l>
+          <l>Amants fervents, puisqu’en somme</l>
+        </lg>
+        <lg>
+          <l>Toi, bonne fille et moi, brave homme,</l>
+          <l>Tu m’aimes, dis, et que je t’aime.</l>
+        </lg>
+      </div>
+      <div xml:id="p146">
+        <pb n="343"/>
+        <head>XXIV</head>
+        <lg>
+          <l>Bien qu’elle soit ta meilleure amie,</l>
+          <l>C’est farce ce que nous la trompons</l>
+          <l>Jusques à l’excès, sans penser mie</l>
+          <l>A elle, tant nos instants sont bons,</l>
+        </lg>
+        <lg>
+          <l> Nos instants sont bons !</l>
+        </lg>
+        <lg>
+          <l>Je fais des comparaisons, de même</l>
+          <l>Toi cocufiant ton autre amant,</l>
+          <l>Et je dois dire que ton système</l>
+          <l>Pour le cocufier est charmant,</l>
+        </lg>
+        <lg>
+          <l> Ton us est charmant !</l>
+        </lg>
+        <lg>
+          <l>Mon plaisir est d’autant plus coupable</l>
+          <l>(Et plus exquis, grâce à ton concours)</l>
+          <l>Qu’elle se montre aussi très capable</l>
+          <l>Et fort experte aux choses d’amours.</l>
+        </lg>
+        <lg>
+          <l> Mais sans ton concours ?</l>
+        </lg>
+        <pb n="344"/>
+        <lg>
+          <l>Trompons-la bien, car elle nous trompe</l>
+          <l>Peut-être aussi, tant on est coquins</l>
+          <l>Et qu’il n’est de pacte qu’on ne rompe.</l>
+          <l>Trompons-<hi rend="i">les</hi> bien. Nuls remords mesquins !</l>
+        </lg>
+        <lg>
+          <l> Soyons bien coquins !</l>
+        </lg>
+      </div>
+      <div xml:id="p147">
+        <pb n="345"/>
+        <head>XXV</head>
+        <lg>
+          <l>Je fus mystique et je ne le suis plus</l>
+          <l>(La femme m’aura repris tout entier),</l>
+          <l>Non sans garder des respects absolus</l>
+          <l>Pour l’idéal qu’il fallut renier.</l>
+        </lg>
+        <lg>
+          <l>Mais la femme m’a repris tout entier !</l>
+        </lg>
+        <lg>
+          <l>J’allais priant le Dieu de mon enfance</l>
+          <l>(Aujourd’hui c’est toi qui m’as à genoux),</l>
+          <l>J’étais plein de foi, de blanche espérance,</l>
+          <l>De charité sainte aux purs feux si doux.</l>
+        </lg>
+        <lg>
+          <l>Mais aujourd’hui tu m’as à tes genoux !</l>
+        </lg>
+        <lg>
+          <l>La femme, par toi, redevient <hi rend="sc">le</hi> maître,</l>
+          <l>Un maître tout-puissant et tyrannique,</l>
+          <l>Mais qu’insidieux ! feignant de tout permettre</l>
+          <l>Pour en arriver à tel but satanique...</l>
+        </lg>
+        <lg>
+          <l>O le temps béni quand j’étais ce mystique !</l>
+        </lg>
+        <pb n="346"/>
+      </div>
+      
+    </body>
+  </text>
+</TEI>
